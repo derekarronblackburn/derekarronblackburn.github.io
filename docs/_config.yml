@@ -28,9 +28,8 @@ twitter_username: derekablackburn
 github_username:  derekablackburn
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme
   - jekyll-feed
 highlighter: rouge
 
