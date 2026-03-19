@@ -4,3 +4,5 @@ _site
 .jekyll-metadata
 vendor
 GemFile.lock
+.bundle/
+jekyll_output.log

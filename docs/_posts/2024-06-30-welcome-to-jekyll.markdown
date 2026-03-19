@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Using Jekyll"
 date:   2024-06-30 12:31:34 -0400
 categories: jekyll update
