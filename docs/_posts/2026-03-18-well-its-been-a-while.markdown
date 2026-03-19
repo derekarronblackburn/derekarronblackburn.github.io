@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Using Jekyll"
+title:  "Using Jekyll two years later 😂"
 date:   2026-03-18 12:00:00 -0400
 categories: automation
 ---
